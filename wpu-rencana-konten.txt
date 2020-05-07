@@ -2,10 +2,9 @@ Rencana KOnten WPU
 
 -menguasai
  *github
+  ^hub
   ^git
-  ^git1
--entahlah
- ^lah
 -memahami
+ ^neuro
 -mengaplikasian
 -tambah
