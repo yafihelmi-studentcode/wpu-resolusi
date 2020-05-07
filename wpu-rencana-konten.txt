@@ -7,3 +7,4 @@ Rencana KOnten WPU
 -memahami
  ^neuro
 -mengaplikasian
+-tambah
