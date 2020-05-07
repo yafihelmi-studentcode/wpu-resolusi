@@ -3,6 +3,7 @@ Rencana KOnten WPU
 -menguasai
  *github
   ^git
+  ^git1
 -entahlah
  ^lah
 -memahami
